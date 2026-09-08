@@ -22,8 +22,8 @@ I love to build stuff and learn new tools and technologies. My projects are a re
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [roopasree2445@gmail.com](mailto:roopasree2445@gmail.com)
-* 🧠  I'm currently learning Advance ML algorithms and applying them
-* 👥  I'm looking to collaborate on Interesting projects in the intersections of backend systems, machine learning and AI flows
+* 🧠  I'm currently learning Advanced ML algorithms and applying them
+* 👥  I'm looking to collaborate on interesting projects in the intersections of backend systems, machine learning and AI flows
 * 💬  2b || !2b is the real question :p
 
 <p align="left">
