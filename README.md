@@ -17,9 +17,9 @@ Hi <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b77
 
 <i>Fullstack, AI systems & Machine Learning</i>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
 I love to build stuff and learn new tools and technologies. My projects are a reflection of what I've learnt and what I'm working towards. I'm constantly looking to upskill myself and would love to collaborate if any of my work interests you!
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [roopasree2445@gmail.com](mailto:roopasree2445@gmail.com)
